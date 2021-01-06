@@ -66,4 +66,4 @@ Have a bug or a feature request? Please first search for existing and closed iss
 
 ## Thanks
 
-To myself to create this project
+To myself for create this project
